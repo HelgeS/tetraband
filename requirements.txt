@@ -1,0 +1,16 @@
+contextlib2
+gym
+imagehash
+imgaug
+keras
+matplotlib
+numpy
+opencv-python
+pandas
+pillow
+seaborn
+tensorflow
+torch>=1.1.0
+torchvision>=0.3.0
+tqdm
+vowpalwabbit  # might need `conda install boost` + `export BOOST_LIBRARYDIR=$CONDA_PREFIX/libs/` before it compiles

@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+coco/
+cifar10/
+imagenet/
+logs/
+.idea/
+.vscode/
+
 # C extensions
 *.so
 
