@@ -4,6 +4,8 @@
 AMT extends traditional metamorphic testing to select one of the multiple metamorphic relations available for a program. 
 By using contextual bandits, AMT learns which metamorphic relations are likely to transform a source test case, such that it has higher chance to discover faults.
 
+More details are in the preprint of the paper [Adaptive Metamorphic Testing with Contextual Bandits](https://arxiv.org/abs/1910.00262).
+
 ## Running Tetraband
 
 Example commandline call:
