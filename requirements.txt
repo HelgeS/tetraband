@@ -9,7 +9,7 @@ opencv-python
 pandas
 pillow
 seaborn
-tensorflow==1.15.2
+tensorflow==1.15.4
 torch>=1.1.0
 torchvision>=0.3.0
 tqdm
